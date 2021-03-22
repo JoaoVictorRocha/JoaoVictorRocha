@@ -4,7 +4,7 @@ Meu nome é João Victor Rocha, sou um desenvolvedor que está sempre disposto a
 
 ## [](https://github.com/fernandoocst/fernandoocst/blob/main/README.md#%EF%B8%8F-about-me)[](https://github.com/fernandoocst/fernandoocst/blob/main/README.md#%EF%B8%8F-about-me)🕵🏻‍♂️ Sobre Mim
 
-**Ligante Fullstack**  na  [@AvanadeBrasil](https://www.avanade.com/pt-br).
+**Programador Fullstack**  na  [@AvanadeBrasil](https://www.avanade.com/pt-br).
 
 [![](https://camo.githubusercontent.com/bb14dfae5e125184ee97e55a8e8e227d72ac96bb53791a835ead9e0bfdf0b9df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/jo%C3%A3ovictorrocha/)  [![](https://camo.githubusercontent.com/cbc854f14dc085a924da2534104c794ca78d82e06e9c02629530d3cf28b944e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/j.victormrocha/?hl=pt-br)  [![](https://camo.githubusercontent.com/fb6d3697ea1b63b88f1a5c69c00d63da09b38c6247447b3ccaf7b8eedb407821/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65e280916d61696c2d4431343833362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d474d61696c266c6f676f436f6c6f723d7768697465)](mailto:joaovictor180601@hotmail.com)
 
