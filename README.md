@@ -13,8 +13,7 @@ Meu nome é João Victor Rocha, sou um desenvolvedor que está sempre disposto a
 
 ## [](https://github.com/fernandoocst/fernandoocst/blob/main/README.md#what-im-working-on--)[](https://github.com/fernandoocst/fernandoocst/blob/main/README.md#what-im-working-on-)  👨‍💻No que eu estou trabalhando
 
-Atualmente trabalho com Desenvolvimento Front-end em uma aplicação web para um projeto, no qual, os integrantes da liga estão desenvolvendo. Trata-se de um site institucional para o Escritório de Modelo de Engenharia Cívil da UNINASSAU. O site institucional tem a proposta de cadastrar projetos e informações gerais sobre o escritório de engenharia cívil.
-
+Atualmente trabalho com Desenvolvimento Full-stack na Avanade Brasil 
 ## [](https://github.com/fernandoocst/fernandoocst/blob/main/README.md#--tech-stack)[](https://github.com/fernandoocst/fernandoocst/blob/main/README.md#--tech-stack)🛠  Tech Stack
 
 Essas são algumas tecnologias e ferramentas que eu utilizo para trabalhar:
